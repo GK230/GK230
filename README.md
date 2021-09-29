@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Geeta. Welcome to my GitHub page!
+### Hi there 👋 , I'm Geeta. Welcome to my GitHub page!
 
 - :woman_student:  I'm just about to graduate from a Full Stack Software Engineering Course at Boolean
 - :computer:  I'm currently looking for a position as a Full Stack Software Engineer
