@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Geeta. Welcome to my GitHub page!
+
+- :woman_student: I'm just about to graduate from a Full Stack Software Engineering Course at Boolean
+- :computer: I'm currently looking for a position as a Full Stack Software Engineer
+- :seedling: I'm eager to learn new things and develop my skills
+- :framed_picture: Here'a link to my : (https://github.com/GK230/project-portfolio "project portfolio")
+- :telephone_receiver: You can get in touch with me on : (https://www.linkedin.com/in/geeta-kotecha-59729816/ "LinkedIn")
 
 <!--
 **GK230/GK230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
