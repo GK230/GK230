@@ -3,7 +3,7 @@
 - :woman_student:  I have just graduated from a Full Stack Software Engineering Course at Boolean
 - :computer:  I'm currently looking for a position as a Full Stack Software Engineer
 - :seedling:  I'm eager to learn new things and develop my skills
-- :framed_picture:  Here'a link to my [project portfolio](https://github.com/GK230/project-portfolio)
+- :framed_picture:  Here'a link to my [project portfolio](https://gk230.github.io/project-portfolio/)
 - :telephone_receiver:  You can get in touch with me on [LinkedIn](https://www.linkedin.com/in/geeta-kotecha-59729816/)
 
 <!--
